@@ -1,2 +1,3 @@
 # Nvidia-DLI.  
-### *Object recognition on mnist dataset
+### *Image Classification  on mnist dataset
+### *Image Classification of an American Sign Language Dataset
